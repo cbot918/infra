@@ -11,6 +11,7 @@ web
 - jest
 
 infra
+- github-actions
 - docker-compose
 - droneci
 - kubernetes
